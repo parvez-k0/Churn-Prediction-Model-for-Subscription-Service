@@ -1,6 +1,6 @@
 # Churn Prediction Model for Subscription Service (Telecom Industry)
 
-## For more details and Insights : Download attached PDf https://github.com/parvez-k0/Customer-Churn-Analysis/blob/main/Telecom%20Customer%20Churn%20Analysis.pdf
+**For more details and Insights : Download attached PDf https://github.com/parvez-k0/Customer-Churn-Analysis/blob/main/Telecom%20Customer%20Churn%20Analysis.pdf**
 
 **Project Overview:**
 This project demonstrate complete workflow integrating SQL Server, Microsoft Power BI, and Machine Learning to analyze customer churn. From data extraction and transformation (ETL) to insightful visualization and predictive modeling, this project provides actionable strategies to enhance customer retention.
